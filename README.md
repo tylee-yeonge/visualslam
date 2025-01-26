@@ -24,9 +24,19 @@
         - [ ] 라이브러리 설치
         - [ ] Turtlebot3 및 AWS Small Warehouse 모델 기반 Gazebo 환경 구현
 - [ ] Monocular Visual SLAM 구현에 필요한 이론 학습하기
+    - [ ] 3차원 회전과 이동
+    - [ ] 동차 좌표계
+    - [ ] Lie Group
+    - [ ] Lie Algebra
+    - [ ] Visual Odometry
+    - [ ] Loop Closure
 - [ ] Monocular Visual SLAM을 구현해보기
 	- [ ]  Localizer를 KISS-ICP로 변경하기
 - [ ] 구현한 Monocular Visual SLAM을 이용하여 맵 만들기
 	- [ ] 맵 생성 및 저장
 - [ ] 만든 맵으로 NAV2에서 주행해보기
 	- [ ] Localizer를 KISS-ICP로 변경하기
+
+# 참고 자료
+- https://voilier-bsc.tistory.com/7
+- https://github.com/changh95/fastcampus_slam_codes
